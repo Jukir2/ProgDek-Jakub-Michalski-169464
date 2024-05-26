@@ -1,0 +1,18 @@
+rodzic(ania,jacek).
+rodzic(ania, basia).
+rodzic(jan, jacek).
+rodzic(jan, basia).
+rodzic(stefan, jan).
+rodzic(maria, ania).
+rodzic(borys, ania).
+
+
+
+
+
+
+
+
+
+
+
